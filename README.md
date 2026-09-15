@@ -18,7 +18,7 @@ remaking.　go away
 
 
 
-mk kins dni
+mk kins dni　DIE OFF
 
 
  　　　
